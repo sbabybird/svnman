@@ -1,0 +1,74 @@
+h1 {
+	margin: 5px;
+	font-family: arial;
+	color: black;
+}
+
+p {
+	margin: 5px;
+	font-family: arial;
+	color: blue;
+}
+
+body {
+	font-family: sans-serif;
+}
+
+.fmsg {
+	background: #009966;
+	color: white;
+	font-family: serif;
+	font-size: 24px;
+	text-align: center;
+	padding: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	position: absolute;
+	top: 50px;
+	right: 50%;
+	margin-right: -200px;
+	width: 400px;
+	height: 75px;
+	overflow: hidden;
+	opacity: 0.9;
+}
+
+.cellimg {
+	background: #666666;
+	color: white;
+	border-radius: 10px;
+	overflow: hidden;
+	width: 100px;
+	height: 100px;
+	opacity: 0.9;
+	float: center;
+}
+
+.imgtable {
+	background: #444444;
+	color: black;
+	border-radius: 10px;
+	text-align: center;
+	margin:0 auto;
+}
+
+.snakCanvas {
+	background: #666666;
+	color: white;
+	font-family: serif;
+	font-size: 24px;
+	text-align: center;
+	padding: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	position: absolute;
+	top: 50px;
+	right: 50%;
+	margin-right: -240px;
+	width: 480px;
+	height: 320px;
+	overflow: hidden;
+	opacity: 0.9;
+}

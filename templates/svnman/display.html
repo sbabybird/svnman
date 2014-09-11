@@ -1,0 +1,13 @@
+<tr>
+	<th> 权限 </th>
+	<th> 路径 </th>
+</tr>
+{% for tb in tablelist %}
+<tr>
+	<!--<td> {{ tb }} </td>-->
+	{% for t in tb %}
+	<td> {{ t }} </td>
+	{% endfor %}
+<tr>
+{% endfor %}
+

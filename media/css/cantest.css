@@ -1,0 +1,79 @@
+h1 {
+	margin: 5px;
+	font-family: arial;
+	color: black;
+}
+
+p {
+	margin: 5px;
+	font-family: arial;
+	color: blue;
+}
+
+body {
+	font-family: sans-serif;
+}
+
+.title {
+	background: #009966;
+	color: white;
+	font-family: serif;
+	font-size: 24px;
+	text-align: center;
+	padding: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	position: absolute;
+	top: 50px;
+	right: 50%;
+	margin-right: -200px;
+	width: 400px;
+	height: 75px;
+	overflow: hidden;
+	opacity: 0.9;
+}
+
+.content {
+	background: #009966;
+	color: white;
+	font-family: serif;
+	font-size: 14px;
+	text-align: left;
+	padding: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	/*position: absolute;
+	top: 50px;
+	right: 50%;
+	margin-right: -200px;
+	width: 400px;
+	height: 100px;
+	*/
+	overflow: hidden;
+	opacity: 0.9;
+}
+
+.display {
+	background: #009966;
+	color: white;
+	font-family: serif;
+	font-size: 14px;
+	text-align: center;
+	padding: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	/*position: absolute;
+	top: 250px;
+	right: 50%;
+	margin-right: -240px;
+	*/
+	/*width: 640px;
+	height: 320px;
+	*/
+	overflow: hidden;
+	opacity: 0.9;
+}
+
